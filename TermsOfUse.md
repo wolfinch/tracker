@@ -1,6 +1,6 @@
 Disclaimer & Terms of Use
 1. Nature of Service (The "Aggregator" Clause)
-[Your Website Name] is a data-aggregation and analytics platform. We do not sell vehicles, nor are we affiliated with, endorsed by, or partnered with Carvana, DriveTime, Bridgecrest, or any of their subsidiaries. All trademarks, service marks, and logos are the property of their respective owners.
+this is a data-aggregation and analytics platform. We do not sell vehicles, nor are we affiliated with, endorsed by, or partnered with Carvana, DriveTime, Bridgecrest, or any of their subsidiaries. All trademarks, service marks, and logos are the property of their respective owners.
 
 2. Data Accuracy & "As-Is" Provision
 The information provided on this site—including inventory availability, VIN tracking, and pricing—is gathered from publicly accessible web sources and third-party APIs.
@@ -17,7 +17,7 @@ Creative Content: We do not host, store, or redistribute copyrighted photographs
 Transformation: This site provides "transformative" value by providing market-wide analytics and historical tracking that is not available on the original source sites.
 
 4. Limitations of Liability
-To the maximum extent permitted by law, [Your Website Name] shall not be liable for:
+To the maximum extent permitted by law, this shall not be liable for:
 
 Any financial decisions, vehicle purchases, or investment actions taken based on the data displayed.
 
@@ -30,4 +30,4 @@ Users are prohibited from:
 
 Using our data to engage in "unfair competition" or to disparage the reputation of the tracked dealerships.
 
-Re-scraping or commercially redistributing the aggregated data provided by [Your Website Name] without express written consent.
+Re-scraping or commercially redistributing the aggregated data provided by this without express written consent.
