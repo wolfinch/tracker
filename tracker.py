@@ -148,7 +148,7 @@ def update_data():
 
 def process_trackers ():
     log.debug("processing trackers")
-    sym_list = get_all_tickers()    
+    sym_list = get_all_tickers()
     for scrn_obj in g_trackers:
         if scrn_obj.updated :
             s_list = sym_list.get(scrn_obj.ticker_kind)
